@@ -1,0 +1,48 @@
+2023-03-30 22:06:37,330 - Sausdemo -INFO - -----------------Broswer has been invoked-----------------
+2023-03-30 22:06:39,222 - Sausdemo -INFO - ---------------------Login with valid_Username_Password testcase started----------------------------------
+2023-03-30 22:06:39,679 - Sausdemo -INFO - *********************Login with valid_Username_Password testcase Ended***********************************
+2023-03-30 22:06:46,934 - Sausdemo -INFO - ***********************Broswer Terminated or closed***********************
+2023-03-30 22:06:47,956 - Sausdemo -INFO - -----------------Broswer has been invoked-----------------
+2023-03-30 22:06:49,032 - Sausdemo -INFO - ------------------------Login with valid_Username_Invalid_Password testcase started---------------------------
+2023-03-30 22:06:56,836 - Sausdemo -INFO - ***********************Broswer Terminated or closed***********************
+2023-03-30 22:06:59,363 - Sausdemo -INFO - -----------------Broswer has been invoked-----------------
+2023-03-30 22:07:00,485 - Sausdemo -INFO - -----------------------------Datadriven Login Testcase is starting now------------------------------ 
+2023-03-30 22:07:00,951 - Sausdemo -INFO - *****************************Datadriven Login Testcase Ended***************************
+2023-03-30 22:07:08,116 - Sausdemo -INFO - ***********************Broswer Terminated or closed***********************
+2023-03-30 22:07:09,153 - Sausdemo -INFO - -----------------Broswer has been invoked-----------------
+2023-03-30 22:07:10,147 - Sausdemo -INFO - -----------------------------Datadriven Login Testcase is starting now------------------------------ 
+2023-03-30 22:07:18,008 - Sausdemo -INFO - ***********************Broswer Terminated or closed***********************
+2023-03-30 22:07:19,088 - Sausdemo -INFO - -----------------Broswer has been invoked-----------------
+2023-03-30 22:07:20,153 - Sausdemo -INFO - -----------------------------Datadriven Login Testcase is starting now------------------------------ 
+2023-03-30 22:07:27,897 - Sausdemo -INFO - ***********************Broswer Terminated or closed***********************
+2023-03-30 22:07:29,051 - Sausdemo -INFO - -----------------Broswer has been invoked-----------------
+2023-03-30 22:07:30,144 - Sausdemo -INFO - -----------------------------Datadriven Login Testcase is starting now------------------------------ 
+2023-03-30 22:07:37,892 - Sausdemo -INFO - ***********************Broswer Terminated or closed***********************
+2023-03-30 22:07:39,028 - Sausdemo -INFO - -----------------Broswer has been invoked-----------------
+2023-03-30 22:07:40,019 - Sausdemo -INFO - -------------------------Get ProductPrice testcase started-----------------------
+2023-03-30 22:07:40,508 - Sausdemo -INFO - *************************Get ProductPrice test Ended***************************
+2023-03-30 22:07:47,699 - Sausdemo -INFO - ***********************Broswer Terminated or closed***********************
+2023-03-30 22:07:48,772 - Sausdemo -INFO - -----------------Broswer has been invoked-----------------
+2023-03-30 22:07:49,796 - Sausdemo -INFO - ------------------------- click Add Cart Button test started-----------------------
+2023-03-30 22:07:50,254 - Sausdemo -INFO - ***********************click Add Cart Button test Ended**************************
+2023-03-30 22:07:57,430 - Sausdemo -INFO - ***********************Broswer Terminated or closed***********************
+2023-03-30 22:07:58,410 - Sausdemo -INFO - -----------------Broswer has been invoked-----------------
+2023-03-30 22:07:59,968 - Sausdemo -INFO - -----------------------Get Product Text test started--------------------------
+2023-03-30 22:08:00,363 - Sausdemo -INFO - ***********************Get Product Text test Ended***********************
+2023-03-30 22:08:07,506 - Sausdemo -INFO - ***********************Broswer Terminated or closed***********************
+2023-03-30 22:08:08,490 - Sausdemo -INFO - -----------------Broswer has been invoked-----------------
+2023-03-30 22:08:09,488 - Sausdemo -INFO - ----------------------Add Product To Cart test started------------------
+2023-03-30 22:08:19,016 - Sausdemo -INFO -  ********************************Add Product To Cart test ENDED****************
+2023-03-30 22:08:26,183 - Sausdemo -INFO - ***********************Broswer Terminated or closed***********************
+2023-03-30 22:08:27,305 - Sausdemo -INFO - -----------------Broswer has been invoked-----------------
+2023-03-30 22:08:28,044 - Sausdemo -INFO - ---------------------check Out Shopping test started---------------------
+2023-03-30 22:08:54,338 - Sausdemo -INFO - ***************************check Out Shopping test Ended**************************
+2023-03-30 22:09:10,545 - Sausdemo -INFO - ***********************Broswer Terminated or closed***********************
+2023-03-30 22:09:11,674 - Sausdemo -INFO - -----------------Broswer has been invoked-----------------
+2023-03-30 22:09:12,870 - Sausdemo -INFO - ---------------------Payment Test  started---------------------
+2023-03-30 22:09:43,104 - Sausdemo -INFO - ****************Payment Test Ended*********************
+2023-03-30 22:09:50,289 - Sausdemo -INFO - ***********************Broswer Terminated or closed***********************
+2023-03-30 22:09:51,409 - Sausdemo -INFO - -----------------Broswer has been invoked-----------------
+2023-03-30 22:09:52,661 - Sausdemo -INFO -  logOutTest Test  started
+2023-03-30 22:10:38,137 - Sausdemo -INFO -  logOutTest Test  Ended
+2023-03-30 22:10:45,330 - Sausdemo -INFO - ***********************Broswer Terminated or closed***********************
